@@ -1,0 +1,14 @@
+body{
+    margin: 20%;
+    margin-top: 5px;
+    font-family: 'Rubik', sans-serif;
+}
+#container{
+    border: 1px solid black;
+}
+#header{
+    padding: 20px;
+}
+h4{
+    color: dimgray;
+}
