@@ -32,8 +32,12 @@ h4{
 #nav li a:hover {
     background-color: #333;
 }
+#centar{
+    display: grid;
+    grid-template-columns: 20% 80% ;
+}
 #sidebar{
-    width: 20%;
+    
 }
 #side{
     list-style-type: none;
@@ -44,4 +48,11 @@ h4{
 }
 #side li a{
     text-decoration: none;
+}
+#main{
+    text-align: justify;  
+}
+#main h1,p{
+    float: right;
+    margin-right: 20px;
 }
