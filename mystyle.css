@@ -32,3 +32,16 @@ h4{
 #nav li a:hover {
     background-color: #333;
 }
+#sidebar{
+    width: 20%;
+}
+#side{
+    list-style-type: none;
+    
+}
+#side li {
+    padding: 4px;
+}
+#side li a{
+    text-decoration: none;
+}
