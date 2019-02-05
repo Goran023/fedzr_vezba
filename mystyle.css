@@ -56,3 +56,11 @@ h4{
     float: right;
     margin-right: 20px;
 }
+#footer{
+    grid-column: 1 / span 2;
+    border-top: 1px solid black;
+}
+#tekst{
+    float: unset;
+    text-align: center;  
+}
