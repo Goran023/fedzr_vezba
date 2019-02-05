@@ -8,6 +8,10 @@ body{
 }
 #header{
     padding: 20px;
+    background-image: url(header.jpg);
+}
+#header h1{
+    color: white;
 }
 h4{
     color: dimgray;
